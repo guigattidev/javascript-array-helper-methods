@@ -1,29 +1,19 @@
-<img alt="Tutorials" src="./react-typescript.png" />
+<img alt="Tutorials" src="./javascript-array-helper-methods.png" />
 <h2 align="center">
-  React Typescript Tutorials
+  Javascript Array Helper Methods
 </h2>
 
-## :memo: Índice de tutoriais
-1. Getting Started
-2. Typing Props
-3. Basic Props
-4. Advanced Props
-5. Event Props
-6. Style Props
-7. Prop Types and Tips
-8. useState Hook
-9. useState Future Value
-10. useState Type Assertion
-11. useReducer Hook
-12. useReducer Strict Action Types
-13. useContext Hook
-14. useContext Future Value
-15. useRef Hook
-16. Class Component
-17. Component Prop
-18. Generic Props
-19. Restricting Props
-20. Template Literals and Exclude
-21. Wrapping HTML Elements
-22. Extracting a Components Prop Types
-23. Polymorphic Components
+## :memo: Índice
+
+1. forEach()
+2. map()
+3. filter()
+4. find()
+5. reduce()
+6. some()
+7. every()
+8. from()
+9. of()
+10. findIndex()
+11. Keys()
+12. values()
