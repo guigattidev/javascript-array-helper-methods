@@ -5,7 +5,7 @@
 // ela retorne true.
 
 // Syntax:
-// some((element, index, array));
+// array.some((element, index, array));
 
 // Example:
 const names = ["Tom", "Joe", "John"];
