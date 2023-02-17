@@ -16,5 +16,5 @@ const personName = arr.map((person) => person.name);
 
 console.log(personName);
 
-// Ouput:
+// Output:
 // [“James”,”Alice”]
